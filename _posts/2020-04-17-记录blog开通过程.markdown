@@ -5,6 +5,7 @@ subtitle:   " \"期间还算顺利\""
 date:       2020-04-17 15:37
 author:     "rainogong"
 header-img: "img/tag-bg.jpg"
+disqus_username: rainogong
 tags:
     - 杂七杂八
 ---
