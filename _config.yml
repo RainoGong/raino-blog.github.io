@@ -1,12 +1,12 @@
 # Site settings
 title: Raino Blog
-SEOTitle: 昊的博客 | Raino Blog
+SEOTitle: Raino Blog | Raino Blog
 header-img: img/home-bg.jpg
 email: rainogong@163.com
 #关于description的内容不是太了解，keyword内容感觉是为了网页能更好的被搜索，这里先按照原先的内容稍作修改
 description: "一个芯片设计后端PR、整天捣鼓乱七八糟的东西 | raino.gong,IC PR Designer | 这里是 @raino.gong 的个人博客，内省与奋斗。"
 keyword: "raino, gong, rainogong, IC Designer, raino.gong, Raino Blog, 博客, 个人网站,  Web, 芯片设计, 芯片设计后端，芯片设计后端PR，PR"
-url: "https://rainogong.ml"              # your host, for absolute URL
+url: "https://rainogong.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -73,13 +73,13 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-163881677-1'            # Format: UA-xxxxxx-xx
-ga_domain: rainogong.ml
+ga_domain: rainogong.github.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "exhaust my life for ... <br>穷尽一生"
+sidebar-about-description: "exhaust my life for ... <br>"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
